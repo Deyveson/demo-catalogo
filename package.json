@@ -13,7 +13,7 @@
   "dependencies": {
     "celebrate": "^12.1.1",
     "cross-env": "^7.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.21.1",
     "oracledb": "^4.2.0",
     "swagger-jsdoc": "^4.0.0",
